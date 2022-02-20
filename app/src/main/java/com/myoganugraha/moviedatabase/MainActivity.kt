@@ -1,4 +1,4 @@
-package com.example.moviedatabase
+package com.myoganugraha.moviedatabase
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

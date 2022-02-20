@@ -9,6 +9,9 @@ buildscript {
         // okhttp3
         okhttpVersion = '5.0.0-alpha.4'
 
+        // sandwich handle network payload
+        sandwichVersion = '1.2.3'
+
         // glide image handler
         glideVersion = '4.13.0'
 
